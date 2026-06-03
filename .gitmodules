@@ -10,3 +10,6 @@
 [submodule "assets/fiction"]
 	path = assets/fiction
 	url = https://github.com/quanttide/quanttide-fiction-of-founder.git
+[submodule "docs/journal"]
+	path = docs/journal
+	url = https://github.com/quanttide/quanttide-journal-of-narrative-engineering.git
