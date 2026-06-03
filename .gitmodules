@@ -7,3 +7,6 @@
 [submodule "docs/profile"]
 	path = docs/profile
 	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
+[submodule "assets/fiction"]
+	path = assets/fiction
+	url = https://github.com/quanttide/quanttide-fiction-of-founder.git
