@@ -13,3 +13,6 @@
 [submodule "docs/journal"]
 	path = docs/journal
 	url = https://github.com/quanttide/quanttide-journal-of-narrative-engineering.git
+[submodule "docs/vision"]
+	path = docs/vision
+	url = https://github.com/quanttide/quanttide-vision-of-narrative-engineering.git
