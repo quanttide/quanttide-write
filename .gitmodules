@@ -1,0 +1,9 @@
+[submodule "apps/qtcloud-write"]
+	path = apps/qtcloud-write
+	url = https://github.com/quanttide/qtcloud-write.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-narrative-engineering.git
+[submodule "docs/profile"]
+	path = docs/profile
+	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
