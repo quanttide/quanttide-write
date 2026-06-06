@@ -28,3 +28,12 @@
 [submodule "docs/library"]
 	path = docs/library
 	url = https://github.com/quanttide/quanttide-library-of-narrative-engineering.git
+[submodule "assets/history"]
+	path = assets/history
+	url = https://github.com/quanttide/quanttide-history-of-business-entity.git
+[submodule "assets/brochure"]
+	path = assets/brochure
+	url = https://github.com/quanttide/quanttide-brochure-of-business-entity.git
+[submodule "assets/vision"]
+	path = assets/vision
+	url = https://github.com/quanttide/quanttide-vision-of-business-entity.git
