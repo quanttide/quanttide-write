@@ -22,3 +22,6 @@
 [submodule "docs/roadmap"]
 	path = docs/roadmap
 	url = https://github.com/quanttide/quanttide-roadmap-of-narrative-engineering.git
+[submodule "docs/report"]
+	path = docs/report
+	url = https://github.com/quanttide/quanttide-report-of-narrative-engineering.git
