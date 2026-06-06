@@ -25,3 +25,6 @@
 [submodule "docs/report"]
 	path = docs/report
 	url = https://github.com/quanttide/quanttide-report-of-narrative-engineering.git
+[submodule "docs/library"]
+	path = docs/library
+	url = https://github.com/quanttide/quanttide-library-of-narrative-engineering.git
