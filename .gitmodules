@@ -37,3 +37,6 @@
 [submodule "assets/vision"]
 	path = assets/vision
 	url = https://github.com/quanttide/quanttide-vision-of-business-entity.git
+[submodule "docs/memo"]
+	path = docs/memo
+	url = https://github.com/quanttide/quanttide-memo-of-narrative-engineering.git
