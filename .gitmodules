@@ -4,29 +4,29 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-narrative-engineering.git
-[submodule "docs/profile"]
-	path = docs/profile
+[submodule "data/profile"]
+	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-narrative-engineering.git
 [submodule "assets/fiction"]
 	path = assets/fiction
 	url = https://github.com/quanttide/quanttide-fiction-of-founder.git
-[submodule "docs/journal"]
-	path = docs/journal
+[submodule "data/journal"]
+	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-narrative-engineering.git
-[submodule "docs/vision"]
-	path = docs/vision
+[submodule "data/vision"]
+	path = data/vision
 	url = https://github.com/quanttide/quanttide-vision-of-narrative-engineering.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-narrative-engineering.git
-[submodule "docs/roadmap"]
-	path = docs/roadmap
+[submodule "data/roadmap"]
+	path = data/roadmap
 	url = https://github.com/quanttide/quanttide-roadmap-of-narrative-engineering.git
-[submodule "docs/report"]
-	path = docs/report
+[submodule "data/report"]
+	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-narrative-engineering.git
-[submodule "docs/library"]
-	path = docs/library
+[submodule "data/library"]
+	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-narrative-engineering.git
 [submodule "assets/history"]
 	path = assets/history
