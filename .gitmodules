@@ -16,6 +16,9 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-narrative-engineering.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-narrative-engineering.git
 [submodule "data/roadmap"]
 	path = data/roadmap
 	url = https://github.com/quanttide/quanttide-roadmap-of-narrative-engineering.git
