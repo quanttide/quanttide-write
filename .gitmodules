@@ -10,9 +10,9 @@
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-narrative-engineering.git
-[submodule "data/vision"]
-	path = data/vision
-	url = https://github.com/quanttide/quanttide-vision-of-narrative-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-narrative-engineering.git
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-narrative-engineering.git
@@ -25,7 +25,6 @@
 [submodule "data/library"]
 	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-narrative-engineering.git
-
-[submodule "docs/memo"]
-	path = docs/memo
-	url = https://github.com/quanttide/quanttide-memo-of-narrative-engineering.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-narrative-engineering.git
