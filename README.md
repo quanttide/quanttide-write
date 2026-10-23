@@ -6,7 +6,7 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-write` | 叙事工程云 (git submodule → qtcloud-write) |
-| `packages/quanttide-write-toolkit` | 叙事工程工具箱 (git submodule → quanttide-write-toolkit) |
+| `packages/quanttide-write-toolkit` | 叙事工程标准库 (git submodule → quanttide-write-toolkit) |
 | `examples/quanttide-write-lab` | 叙事工程实验室 (git submodule → quanttide-write-lab) |
 | `data/context` | 叙事工程语境 (git submodule → quanttide-context-of-narrative-engineering) |
 | `data/journal` | 叙事工程日志 (git submodule → quanttide-journal-of-narrative-engineering) |
